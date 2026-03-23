@@ -58,4 +58,4 @@ ret_value,NULL,NULL,NULL FROM secrets--"}'
 ```
 наш флаг ==FLAG{sql_1nj3ct10n_byp4ss_cl13nt_v4l1d4t10n}:
 
-!()[Screenshot_20260315_004104.png]
+![](Screenshot_20260315_004104.png)
