@@ -36,5 +36,5 @@ curl https://steel-curtain.tasks.zeroplus.redshiftctf.ru/login \
 
 ожидаемо access denied. Обращаемся к `http://conference:65001/admin/flag
 Нам нужен флаг:
-![[Screenshot_20260315_170920.png]]
+![](Screenshot_20260315_170920.png)
 Успех!!
